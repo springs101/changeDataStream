@@ -20,5 +20,6 @@ def readfile():
         except Exception as err:
          print(err)
 
+
 if __name__ == '__main__':
     readfile()
